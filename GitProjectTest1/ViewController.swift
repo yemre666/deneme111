@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 
     func xy () {
         print("perde düştü")
-        print("elifle perde taktık")
+        print("denemeeee")
     }
 }
 
